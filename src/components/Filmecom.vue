@@ -43,6 +43,7 @@ import env from "@/env";
 import Header from "@/components/Header.vue";
 
 export default {
+  name: 'FilmeCom',
   setup() {
     const search = ref("");
     const movies = ref([]);

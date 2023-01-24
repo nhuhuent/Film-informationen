@@ -30,7 +30,7 @@
 import Header from '../components/Header.vue';
 
 export default {
-    name: 'Homecom',
+    name: 'HomeCom',
     methods : {
         filmpage(){
         this.$router.push({name :"filme"});

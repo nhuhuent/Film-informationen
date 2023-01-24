@@ -154,12 +154,6 @@ export default {
   }
 
   .movies-list {
-    margin: 10px 8px;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: 70px;
-    width: 90%;
-    border-radius: 10px 10px;
 
     .movie {
       max-width: 50%;
